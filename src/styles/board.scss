@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.board {
+  border: 10px solid #333;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw;
+  // background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4ZJWPZmzEONG2WzR6W4ecBB62oGiaE3dimed-rkS07OwZOiCHQ&s');
+}
+
+.bground {
+  height: 99vh;
+  width: 99vw
+}
+
+.title1 {
+  margin-left: 40vw;
+  color: blue
+}

@@ -1,0 +1,35 @@
+.target {
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  cursor: pointer; }
+
+.score {
+  position: fixed;
+  top: 5vh;
+  right: 5vw;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: sans-serif; }
+
+html,
+body {
+  padding: 0;
+  margin: 0; }
+
+.board {
+  border: 10px solid #333;
+  box-sizing: border-box;
+  height: 100vh;
+  width: 100vw; }
+
+.bground {
+  height: 99vh;
+  width: 99vw; }
+
+.title1 {
+  margin-left: 40vw;
+  color: blue; }
+
+
+/*# sourceMappingURL=/react-crash-course.e31bb0bc.css.map */
