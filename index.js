@@ -1,4 +1,4 @@
-import {React} from 'react';
+import React from 'react';
 import {createStore} from 'redux';
 import {Board} from './src/components/Board';
 import {render} from 'react-dom';
